@@ -1,0 +1,8 @@
+theme = "solarized_dark"
+[editor]
+middle-click-paste = false
+cursorline = true
+auto-completion = false
+rulers = [80]
+[editor.inline-diagnostics]
+cursor-line = "warning"
