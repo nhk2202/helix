@@ -1,9 +1,10 @@
 theme = "solarized_dark_improved"
 [editor]
-middle-click-paste = false
-cursorline = true
 auto-completion = false
+cursorline = true
+middle-click-paste = false
 rulers = [80]
+true-color = true
 [editor.cursor-shape]
 insert = "bar"
 normal = "block"
