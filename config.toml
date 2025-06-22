@@ -4,5 +4,13 @@ middle-click-paste = false
 cursorline = true
 auto-completion = false
 rulers = [80]
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+[editor.gutters]
+layout = [ "diagnostics", "spacer", "diff" ]
+[editor.statusline]
+right = [ "diagnostics", "register", "position", "file-encoding" ]
 [editor.inline-diagnostics]
 cursor-line = "warning"
