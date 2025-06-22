@@ -1,4 +1,4 @@
-theme = "solarized_dark"
+theme = "solarized_dark_improved"
 [editor]
 middle-click-paste = false
 cursorline = true
